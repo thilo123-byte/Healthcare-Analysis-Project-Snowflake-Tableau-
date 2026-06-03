@@ -1,0 +1,1001 @@
+patient_id,name,gender,dob,city
+P1000,Taylor,F,11-28-2023,
+P1001,Jordan,,2024-01-02,Cape Town
+P1002,Sam,F,2022-12-17,
+P1003,Jordan,M,2023-08-19,
+P1004,Taylor,F,2023-01-20,Durban
+P1005,Taylor,,24/12/2021,
+P1006,Sam,,27/06/2023,
+P1007,,F,10-31-2022,Pretoria
+P1008,Sam,,2022-07-17,
+P1009,Alex,M,29/09/2023,Pretoria
+P1000,,F,2024-01-16,Durban
+P1001,Taylor,,10-29-2023,Cape Town
+P1002,Taylor,,05-29-2022,Cape Town
+P1003,Jordan,M,2021-07-29,Pretoria
+P1004,Sam,M,2022/09/20,
+P1005,Jordan,F,2022-09-26,Cape Town
+P1016,Taylor,F,01/01/2024,Pretoria
+P1017,Sam,,2022/05/31,Pretoria
+P1018,Alex,M,2022/05/13,Cape Town
+P1019,,M,17/11/2023,
+P1020,Taylor,,2022-09-14,Pretoria
+P1021,Alex,,2021/01/16,Pretoria
+P1022,Jordan,M,2021/01/26,Pretoria
+P1023,Taylor,,2023/11/13,Pretoria
+P1024,Jordan,,09-27-2023,Durban
+P1025,,F,bad_date,Durban
+P1026,Taylor,F,19/08/2022,Pretoria
+P1027,Jordan,M,22/01/2023,Durban
+P1028,,F,09-01-2021,Durban
+P1029,Jordan,F,18/07/2023,Durban
+P1030,Sam,M,2022/11/27,Durban
+P1031,Taylor,M,16/06/2023,Pretoria
+P1032,Sam,F,2022-04-07,Durban
+P1033,Jordan,M,15/04/2022,Durban
+P1034,Jordan,M,2021-05-30,Pretoria
+P1035,Alex,,2021-03-19,Pretoria
+P1036,Sam,M,2023/12/04,Cape Town
+P1037,Sam,M,22/05/2023,Durban
+P1038,Sam,F,23/08/2023,Pretoria
+P1039,,,07-30-2021,Durban
+P1040,Alex,,01/11/2023,
+P1041,,,2023/04/30,
+P1042,Jordan,F,2021/06/02,Pretoria
+P1043,Jordan,,2022-02-21,Durban
+P1044,Taylor,F,2022/08/30,Pretoria
+P1045,Taylor,M,2021-06-02,Cape Town
+P1046,Jordan,M,2023/05/16,Cape Town
+P1047,Alex,M,2022/09/08,
+P1048,Sam,,05/05/2022,Cape Town
+P1049,Jordan,F,2022-12-08,Durban
+P1050,Alex,M,2021-06-26,Pretoria
+P1051,Sam,M,21/06/2023,Durban
+P1052,Alex,,21/01/2021,Durban
+P1053,Sam,M,06/10/2021,Durban
+P1054,Jordan,,09-19-2022,Durban
+P1055,,,01/11/2023,
+P1056,,F,2021-11-14,
+P1057,Alex,F,2022/02/10,Cape Town
+P1058,Taylor,M,21/05/2022,
+P1059,Jordan,F,2023/06/30,Cape Town
+P1060,Jordan,F,2023/03/23,Cape Town
+P1061,Taylor,,2022/11/28,
+P1062,Sam,F,2023-10-17,Cape Town
+P1063,Sam,F,19/07/2021,Pretoria
+P1064,Sam,,02-25-2022,Durban
+P1065,Jordan,,2021/01/22,Durban
+P1066,Taylor,F,08-08-2021,Cape Town
+P1067,Sam,M,2022/10/19,Durban
+P1068,Sam,F,03-28-2022,Durban
+P1069,Taylor,F,09-02-2023,
+P1070,Alex,F,2022-02-18,Cape Town
+P1071,Alex,M,08-08-2023,Durban
+P1072,Sam,,2022/10/05,Pretoria
+P1073,Taylor,F,2023-12-09,Pretoria
+P1074,,,11/09/2021,
+P1075,Jordan,F,24/12/2022,Pretoria
+P1076,Alex,F,08-11-2021,Pretoria
+P1077,Jordan,F,04-20-2021,Cape Town
+P1078,,,01/09/2023,Durban
+P1079,Alex,F,2024/04/08,Pretoria
+P1080,Taylor,F,2021-01-25,
+P1081,Alex,,02-28-2023,Pretoria
+P1082,Jordan,,04-21-2022,Cape Town
+P1083,Jordan,,10-29-2022,Pretoria
+P1084,Sam,,2022-01-27,
+P1085,Taylor,M,29/05/2023,Cape Town
+P1086,,F,2021/10/18,Cape Town
+P1087,,F,28/03/2022,Durban
+P1088,Taylor,M,18/08/2021,
+P1089,Alex,,19/11/2022,
+P1090,Sam,,2021-03-21,Durban
+P1091,,,01-17-2024,Pretoria
+P1092,Sam,F,12-16-2022,Pretoria
+P1093,Taylor,,10-20-2022,Durban
+P1094,Sam,,2021-07-26,Cape Town
+P1095,Sam,F,2024/04/02,Pretoria
+P1096,Jordan,,2022/11/13,Cape Town
+P1097,Alex,M,29/08/2021,Durban
+P1098,Taylor,M,2022-09-10,Durban
+P1099,Sam,F,2023/02/24,Durban
+P1100,Taylor,M,2022-09-17,Durban
+P1101,Taylor,F,2023-05-30,Cape Town
+P1102,,,11-21-2021,
+P1103,,M,24/06/2021,
+P1104,Alex,,2022/03/17,Cape Town
+P1105,Taylor,M,2022/07/21,
+P1106,,,2022-06-11,Durban
+P1107,Taylor,M,2022-05-21,Pretoria
+P1108,,,19/09/2022,
+P1109,Sam,,2023/11/28,Durban
+P1110,Jordan,M,03-15-2022,Pretoria
+P1111,Alex,,2022-01-12,Cape Town
+P1112,,,08-26-2023,Cape Town
+P1113,Jordan,M,2022-09-30,Durban
+P1114,Sam,M,02/06/2023,
+P1115,Sam,F,2022/09/17,Cape Town
+P1116,Jordan,F,2022-02-22,
+P1117,,F,2022/11/28,Cape Town
+P1118,Taylor,,25/08/2022,Cape Town
+P1119,Jordan,,2023-10-23,
+P1120,,F,08-30-2022,Durban
+P1121,,F,06-27-2022,
+P1122,Sam,,03-20-2024,
+P1123,,,03-12-2021,
+P1124,Jordan,M,08-19-2021,
+P1125,Jordan,M,2021-11-14,Pretoria
+P1126,Alex,M,2024-04-03,Pretoria
+P1127,Taylor,F,2022/04/22,
+P1128,,M,20/07/2022,Durban
+P1129,,M,07/05/2023,
+P1130,Sam,,2023-01-27,Durban
+P1131,,M,12-29-2021,Durban
+P1132,Alex,M,02-06-2021,
+P1133,Sam,,03-28-2024,
+P1134,Alex,,2021-08-01,Pretoria
+P1135,Sam,F,2021/12/04,Cape Town
+P1136,Alex,,04-04-2021,Pretoria
+P1137,Alex,,04-29-2023,Pretoria
+P1138,Jordan,M,06-25-2022,Pretoria
+P1139,Sam,M,02/02/2022,Cape Town
+P1140,Alex,F,2023-01-11,Pretoria
+P1141,Sam,M,2021-08-14,
+P1142,Jordan,,2022-05-15,Cape Town
+P1143,,,08-06-2021,Pretoria
+P1144,Sam,F,05-27-2022,
+P1145,Sam,,2024-01-28,Durban
+P1146,Alex,F,12-17-2022,Pretoria
+P1147,Alex,F,2023/03/06,Pretoria
+P1148,Alex,,09-29-2023,Pretoria
+P1149,Alex,,06-03-2022,Pretoria
+P1150,Alex,M,2021/04/11,Cape Town
+P1151,,F,01-15-2022,Durban
+P1152,Alex,M,2022-11-21,Cape Town
+P1153,,M,2021/05/09,
+P1154,Sam,M,04/07/2023,Pretoria
+P1155,Taylor,F,2022/07/19,
+P1156,Alex,,2023-01-05,
+P1157,Alex,F,03-26-2023,Pretoria
+P1158,Taylor,M,2021-09-30,Durban
+P1159,Jordan,F,06-27-2023,Durban
+P1160,Jordan,F,2023-10-16,
+P1161,Alex,M,06/03/2024,Durban
+P1162,Sam,M,2024/03/28,Pretoria
+P1163,Alex,F,03/01/2023,Pretoria
+P1164,,F,03-10-2024,Cape Town
+P1165,Taylor,M,2022/02/22,
+P1166,,M,2023/08/30,
+P1167,,,2022-10-08,Durban
+P1168,Jordan,F,2021/11/09,Cape Town
+P1169,Alex,M,2022-01-09,Pretoria
+P1170,Jordan,,2022/05/17,Pretoria
+P1171,Jordan,F,03/06/2021,Pretoria
+P1172,Alex,F,2023-06-06,Pretoria
+P1173,Jordan,M,17/04/2023,Cape Town
+P1174,,F,2024-02-29,Durban
+P1175,,,12-23-2021,Pretoria
+P1176,,,2023-06-28,Durban
+P1177,Alex,F,25/05/2021,
+P1178,Taylor,M,2023/08/15,Cape Town
+P1179,Sam,F,2021/10/15,Durban
+P1180,Alex,F,03-04-2023,
+P1181,Sam,,07-05-2023,
+P1182,Taylor,M,05/01/2021,Pretoria
+P1183,,F,2023-12-28,
+P1184,Taylor,M,12/02/2021,Durban
+P1185,Taylor,M,2023/11/29,Cape Town
+P1186,Sam,F,05-03-2021,Cape Town
+P1187,Alex,F,08-08-2021,Cape Town
+P1188,Sam,F,10-24-2021,Pretoria
+P1189,Taylor,F,01-08-2021,Durban
+P1190,Jordan,,2023-05-24,Durban
+P1191,Taylor,,2022-06-24,Durban
+P1192,Taylor,M,21/11/2023,Pretoria
+P1193,Sam,F,10-31-2023,Pretoria
+P1194,,,2023-08-22,
+P1195,Sam,F,2022-11-09,Cape Town
+P1196,Alex,F,2023/09/17,Pretoria
+P1197,,F,2022-03-31,Durban
+P1198,Jordan,F,30/01/2022,Cape Town
+P1199,Jordan,,2021-03-05,
+P1200,Jordan,F,2022/10/21,Cape Town
+P1201,Jordan,M,2023-11-30,Cape Town
+P1202,Sam,M,30/01/2021,Cape Town
+P1203,Alex,M,13/12/2021,Durban
+P1204,Taylor,F,2024/03/15,Pretoria
+P1205,,M,2023-06-23,Durban
+P1206,Taylor,M,2021/07/04,Cape Town
+P1207,,,18/12/2022,Pretoria
+P1208,,M,2021/06/29,Cape Town
+P1209,Jordan,F,20/03/2024,Pretoria
+P1210,Taylor,F,2021-04-06,Cape Town
+P1211,Jordan,,2024/02/15,
+P1212,,F,2023-09-26,
+P1213,Alex,,2021-01-19,
+P1214,Jordan,,01-09-2023,
+P1215,Taylor,,2021/06/23,Cape Town
+P1216,Sam,M,2021-12-09,
+P1217,Taylor,,17/02/2022,Pretoria
+P1218,Taylor,,10-19-2023,Durban
+P1219,Jordan,M,2023/04/19,
+P1220,,,2021-08-03,Pretoria
+P1221,,F,29/08/2022,
+P1222,Jordan,F,2022-01-07,Cape Town
+P1223,Jordan,,2024/02/08,Durban
+P1224,Sam,F,06-18-2021,Durban
+P1225,,F,2021/10/01,
+P1226,,F,2021/08/29,
+P1227,Sam,F,26/08/2023,Cape Town
+P1228,Sam,M,2022/11/08,
+P1229,Taylor,F,17/06/2023,Cape Town
+P1230,Taylor,F,17/05/2022,
+P1231,Jordan,,2023/05/13,Pretoria
+P1232,,,08-22-2023,Durban
+P1233,Alex,F,16/03/2024,Pretoria
+P1234,Taylor,,10-14-2022,Pretoria
+P1235,,,25/04/2023,Durban
+P1236,Sam,F,2024/01/19,
+P1237,Jordan,F,15/02/2023,Cape Town
+P1238,Jordan,,2021-09-21,
+P1239,Sam,F,04-29-2021,Durban
+P1240,Alex,M,2022-08-12,Durban
+P1241,Alex,F,25/04/2021,Pretoria
+P1242,Taylor,F,01-03-2023,Cape Town
+P1243,Taylor,M,2021/09/05,Cape Town
+P1244,Alex,M,09-27-2021,Durban
+P1245,Jordan,M,08-02-2021,Pretoria
+P1246,Alex,M,08/09/2023,Pretoria
+P1247,Sam,M,10-20-2023,Durban
+P1248,Sam,M,24/04/2021,
+P1249,,F,2021/01/29,
+P1250,,F,05-18-2023,Durban
+P1251,Taylor,F,2021-03-08,Pretoria
+P1252,Alex,F,2023-07-18,Pretoria
+P1253,Taylor,,2023/10/22,Durban
+P1254,Sam,M,31/12/2021,
+P1255,,M,17/01/2022,Pretoria
+P1256,,,06-02-2021,Pretoria
+P1257,Sam,M,07-13-2023,Cape Town
+P1258,Jordan,F,2021/03/10,Pretoria
+P1259,Alex,F,2021/09/07,
+P1260,Sam,F,2021-12-25,Pretoria
+P1261,Sam,,27/02/2021,Durban
+P1262,Jordan,F,2021-12-27,Durban
+P1263,Taylor,M,10-09-2022,Durban
+P1264,Taylor,,2022/01/27,Cape Town
+P1265,Alex,,26/02/2024,Cape Town
+P1266,Alex,F,03-09-2023,Pretoria
+P1267,Jordan,F,03-03-2021,Durban
+P1268,Jordan,,2023/09/06,Cape Town
+P1269,Alex,M,20/07/2023,Pretoria
+P1270,Jordan,F,2021-04-07,Cape Town
+P1271,Jordan,F,2023-03-26,Durban
+P1272,,,2021-10-04,Pretoria
+P1273,Jordan,F,2024-02-09,Durban
+P1274,Sam,,2021/05/13,Pretoria
+P1275,Alex,M,20/01/2022,Durban
+P1276,Jordan,,01-04-2024,
+P1277,Alex,F,02-22-2022,Cape Town
+P1278,Sam,F,2024/02/02,Durban
+P1279,,F,19/07/2021,Durban
+P1280,Sam,M,2021/01/24,Pretoria
+P1281,Taylor,M,2023/11/30,Cape Town
+P1282,Sam,,2021-02-08,
+P1283,,M,08-02-2022,Pretoria
+P1284,Sam,F,2023-06-16,Durban
+P1285,Sam,,2023/05/27,Durban
+P1286,Sam,,02/05/2021,Cape Town
+P1287,,F,29/03/2023,Pretoria
+P1288,Taylor,F,11-18-2022,Pretoria
+P1289,Taylor,F,2022/07/06,Cape Town
+P1290,Alex,,23/06/2023,Pretoria
+P1291,Taylor,M,22/02/2023,Durban
+P1292,Jordan,F,2023-12-22,Cape Town
+P1293,Sam,,2023-02-20,
+P1294,,M,01/05/2023,Cape Town
+P1295,Taylor,,2022/04/29,Durban
+P1296,Jordan,F,2023/05/18,Pretoria
+P1297,Jordan,,2022/11/13,
+P1298,,F,22/07/2022,Cape Town
+P1299,Taylor,M,2022/03/10,Pretoria
+P1300,,M,2021/08/07,Durban
+P1301,,,2022/07/05,
+P1302,Jordan,M,2024-01-19,
+P1303,,F,10-21-2023,Durban
+P1304,Jordan,,04-08-2021,Cape Town
+P1305,Jordan,F,29/11/2023,Durban
+P1306,,,01-19-2021,Durban
+P1307,Taylor,F,04-18-2022,Durban
+P1308,,F,2024/02/26,Pretoria
+P1309,,,14/06/2021,Cape Town
+P1310,Alex,F,2021/08/27,Pretoria
+P1311,Jordan,,02/11/2022,
+P1312,Jordan,,2024/02/11,Pretoria
+P1313,Alex,M,2024/03/30,Cape Town
+P1314,Sam,,12-11-2022,
+P1315,Alex,F,bad_date,Durban
+P1316,,F,11-21-2022,Durban
+P1317,Taylor,F,2023-01-06,
+P1318,Jordan,M,2022/02/10,Durban
+P1319,,M,2021-06-22,
+P1320,Sam,M,2022/01/24,Durban
+P1321,Jordan,M,2021-06-01,Durban
+P1322,Jordan,,2023/01/12,Durban
+P1323,Sam,F,26/03/2021,
+P1324,Jordan,M,29/12/2023,
+P1325,Sam,F,2022-02-16,Cape Town
+P1326,Taylor,,2022-08-28,
+P1327,Taylor,M,04-13-2024,Pretoria
+P1328,Alex,M,2024-03-06,Pretoria
+P1329,Sam,M,01/06/2021,Durban
+P1330,,,2022-04-12,
+P1331,Sam,,2023/05/30,
+P1332,Jordan,F,04-28-2021,
+P1333,Alex,M,29/06/2023,Cape Town
+P1334,Jordan,,25/04/2022,Cape Town
+P1335,Sam,,2023/07/19,Cape Town
+P1336,Sam,,22/03/2022,Cape Town
+P1337,Sam,M,11-25-2021,Durban
+P1338,Sam,,03/01/2021,Pretoria
+P1339,Jordan,F,14/03/2021,Cape Town
+P1340,Sam,,01-07-2024,Pretoria
+P1341,,F,2022-07-09,Durban
+P1342,Alex,M,2022-07-20,
+P1343,Sam,,11/10/2023,Cape Town
+P1344,Alex,,2022-12-01,Durban
+P1345,Jordan,M,08-27-2022,Durban
+P1346,Alex,,2023/08/22,
+P1347,Jordan,F,2022-01-23,Pretoria
+P1348,Alex,M,14/01/2021,Durban
+P1349,Alex,F,12-23-2022,Durban
+P1350,Taylor,M,2022-01-24,Pretoria
+P1351,Sam,M,22/04/2023,Cape Town
+P1352,Sam,M,2024-01-14,
+P1353,Jordan,F,2022/04/20,Durban
+P1354,Sam,M,2021/11/19,Durban
+P1355,Alex,,05/04/2022,
+P1356,Alex,M,2024/04/14,Cape Town
+P1357,Sam,M,26/03/2022,Cape Town
+P1358,Alex,,08-21-2023,Durban
+P1359,Jordan,,2023-10-01,Cape Town
+P1360,Alex,,2021-08-26,
+P1361,Alex,F,09-12-2021,
+P1362,Jordan,,29/07/2021,Durban
+P1363,Jordan,F,2023-11-08,Durban
+P1364,Alex,,17/11/2021,Durban
+P1365,Jordan,M,2023/03/08,Pretoria
+P1366,Sam,F,13/02/2021,
+P1367,Sam,,2021-07-11,Cape Town
+P1368,,F,04-04-2024,Durban
+P1369,Taylor,,2021/05/20,Pretoria
+P1370,,M,04-19-2022,Cape Town
+P1371,,,21/08/2021,Durban
+P1372,Taylor,M,06-03-2023,Cape Town
+P1373,,F,2023/12/04,Pretoria
+P1374,Alex,F,2022-09-09,Pretoria
+P1375,Jordan,M,12/10/2021,Pretoria
+P1376,Alex,M,2023/04/07,
+P1377,Jordan,,2021/11/04,Durban
+P1378,Taylor,F,2021-01-10,
+P1379,,M,16/03/2021,Pretoria
+P1380,,,02/08/2021,
+P1381,Sam,M,2022-01-29,Cape Town
+P1382,Sam,F,07/07/2021,Durban
+P1383,Alex,F,2021-04-17,
+P1384,Sam,,05-25-2022,Pretoria
+P1385,Jordan,M,2023-10-01,Pretoria
+P1386,Sam,M,2021/09/23,
+P1387,,,07-02-2023,Pretoria
+P1388,,F,2021/02/12,Pretoria
+P1389,,,2024/03/26,Durban
+P1390,Alex,F,11-25-2023,Cape Town
+P1391,Sam,M,2023/10/12,Cape Town
+P1392,Jordan,F,2022-01-28,Pretoria
+P1393,,,2022/12/19,Cape Town
+P1394,Sam,M,02/09/2021,
+P1395,Taylor,M,2021-06-30,
+P1396,Jordan,F,2023/08/23,
+P1397,Sam,M,2023/01/15,
+P1398,Alex,,28/06/2022,
+P1399,Alex,M,01-30-2021,Durban
+P1400,Sam,F,2023-11-23,Durban
+P1401,Taylor,M,2021-12-16,
+P1402,,F,2023-09-17,Cape Town
+P1403,Alex,M,2021-11-13,
+P1404,Jordan,F,17/02/2023,Cape Town
+P1405,Taylor,M,04-12-2023,Durban
+P1406,Alex,M,26/01/2023,
+P1407,Alex,M,01-22-2024,Durban
+P1408,Taylor,,03-31-2023,
+P1409,Sam,M,08-30-2023,
+P1410,Alex,F,2024-01-06,Pretoria
+P1411,Sam,M,22/12/2022,Cape Town
+P1412,Taylor,M,2021-03-16,Durban
+P1413,Sam,F,2021/07/05,Durban
+P1414,Taylor,M,07-04-2023,
+P1415,Alex,,05-14-2022,
+P1416,,M,20/11/2022,Durban
+P1417,Alex,F,2023-08-25,
+P1418,,,01-26-2024,
+P1419,Sam,M,29/10/2022,Pretoria
+P1420,Alex,F,2023-02-02,Pretoria
+P1421,,F,2021-12-24,Pretoria
+P1422,,F,02-26-2023,Cape Town
+P1423,Alex,,12/04/2022,Durban
+P1424,Alex,F,29/07/2022,Pretoria
+P1425,Sam,M,10-26-2022,
+P1426,,F,2021/07/09,Pretoria
+P1427,Sam,F,01-30-2023,
+P1428,,M,2024-03-19,
+P1429,Taylor,F,05/06/2022,
+P1430,Taylor,,12-29-2023,Cape Town
+P1431,,,2022-01-19,Cape Town
+P1432,Taylor,M,05-19-2022,
+P1433,,F,2023/05/13,
+P1434,Taylor,M,31/01/2022,Cape Town
+P1435,,,2023/11/15,Pretoria
+P1436,Taylor,M,26/09/2022,Pretoria
+P1437,Sam,M,03/01/2021,Durban
+P1438,Taylor,,2021/08/23,Pretoria
+P1439,Alex,,2021/02/05,
+P1440,Alex,M,12-25-2021,Pretoria
+P1441,Sam,M,2021-03-20,Cape Town
+P1442,,,2023-04-29,Pretoria
+P1443,Taylor,M,2023-04-12,Durban
+P1444,,F,2021-09-20,Pretoria
+P1445,Sam,,11/12/2023,
+P1446,,M,2023/05/11,
+P1447,,F,2022-08-21,
+P1448,Sam,F,2022-04-01,
+P1449,Alex,M,02-03-2021,Durban
+P1450,Alex,F,2023-05-18,Pretoria
+P1451,,M,19/10/2023,
+P1452,Alex,,18/11/2023,Cape Town
+P1453,,M,10/06/2023,Pretoria
+P1454,Jordan,F,10-12-2022,Pretoria
+P1455,Taylor,,16/02/2021,Cape Town
+P1456,,,01-22-2021,Pretoria
+P1457,Alex,F,2022-10-22,Pretoria
+P1458,Jordan,F,01-28-2021,Cape Town
+P1459,Taylor,M,2021/08/27,Durban
+P1460,Taylor,,17/12/2021,Durban
+P1461,,F,2023-10-16,Pretoria
+P1462,Sam,M,2021-01-30,
+P1463,Alex,F,09-05-2021,Cape Town
+P1464,Alex,,08-08-2022,
+P1465,Jordan,,08-18-2022,Pretoria
+P1466,Taylor,M,05-17-2021,Pretoria
+P1467,,F,09/09/2021,Cape Town
+P1468,Sam,M,12/05/2022,Cape Town
+P1469,Jordan,F,06/10/2023,
+P1470,Jordan,,18/09/2023,Pretoria
+P1471,Jordan,F,02/05/2021,
+P1472,Alex,M,2021/08/26,Cape Town
+P1473,Taylor,M,02/04/2024,Cape Town
+P1474,Sam,M,08-04-2021,Durban
+P1475,Jordan,M,2023/09/02,Cape Town
+P1476,Jordan,F,2023/08/10,Cape Town
+P1477,Alex,F,03-04-2023,
+P1478,Taylor,M,01-03-2024,Pretoria
+P1479,Alex,F,2021/11/19,
+P1480,Alex,,14/02/2022,Durban
+P1481,,,2021-05-20,
+P1482,Jordan,F,09-01-2021,
+P1483,,F,2023-05-24,Pretoria
+P1484,,M,07/06/2023,Cape Town
+P1485,Jordan,F,bad_date,Pretoria
+P1486,Taylor,,2023/04/28,Cape Town
+P1487,,,2023/03/11,Durban
+P1488,,,2023-01-25,
+P1489,Taylor,M,09-16-2023,Pretoria
+P1490,Jordan,,30/06/2023,Cape Town
+P1491,Jordan,M,17/08/2022,
+P1492,Alex,,25/06/2021,Durban
+P1493,Alex,,2022/03/03,Cape Town
+P1494,Taylor,M,09/08/2023,
+P1495,Taylor,F,01-09-2024,
+P1496,Alex,,11-30-2022,
+P1497,,M,08-28-2023,
+P1498,Alex,M,2022-12-24,
+P1499,Alex,F,12-20-2022,
+P1500,Sam,,2021-01-28,Pretoria
+P1501,Taylor,,2022-08-05,Cape Town
+P1502,,,2022/03/07,
+P1503,Jordan,F,30/11/2021,Cape Town
+P1504,Taylor,F,02-06-2022,
+P1505,,,12/04/2024,Cape Town
+P1506,,,2021/08/28,
+P1507,Sam,F,2021/10/17,Cape Town
+P1508,Alex,,25/03/2021,Pretoria
+P1509,Jordan,,2022-01-07,Durban
+P1510,,F,01-08-2021,Durban
+P1511,,,2021-06-09,Durban
+P1512,,M,06/04/2022,Durban
+P1513,Taylor,,04-04-2023,Cape Town
+P1514,Jordan,F,2022-12-29,Durban
+P1515,Sam,M,2022-09-22,
+P1516,Taylor,M,04/08/2021,
+P1517,Sam,F,2022-12-17,
+P1518,Jordan,M,09-14-2023,Cape Town
+P1519,Sam,M,07-31-2023,Cape Town
+P1520,Alex,F,2021-10-12,
+P1521,Sam,F,2024/03/18,
+P1522,Jordan,,02-09-2024,Pretoria
+P1523,Sam,M,25/03/2022,Cape Town
+P1524,Taylor,F,05/11/2021,Cape Town
+P1525,Sam,F,06/12/2022,Cape Town
+P1526,Jordan,F,07-16-2023,Pretoria
+P1527,,M,07/06/2022,Cape Town
+P1528,Alex,,2021-04-14,Pretoria
+P1529,,M,2021/09/19,Pretoria
+P1530,Taylor,,22/07/2022,Cape Town
+P1531,Alex,,2021-10-04,Durban
+P1532,Sam,F,08-23-2023,
+P1533,Alex,M,2022/03/10,Cape Town
+P1534,,F,2021/05/16,
+P1535,,,2023-08-19,Pretoria
+P1536,Jordan,,2022/04/20,Cape Town
+P1537,Taylor,F,07/11/2023,
+P1538,Taylor,F,2021-10-14,Cape Town
+P1539,Sam,M,25/02/2022,Pretoria
+P1540,Jordan,F,25/01/2023,Pretoria
+P1541,Alex,M,2023/07/21,Durban
+P1542,Alex,M,2023-10-27,Durban
+P1543,Sam,M,07/05/2023,Pretoria
+P1544,Alex,F,2022/10/14,Pretoria
+P1545,Alex,F,2021/04/23,Cape Town
+P1546,,M,12-27-2021,
+P1547,Taylor,F,24/09/2021,Pretoria
+P1548,Taylor,F,02-26-2023,Durban
+P1549,,M,03-03-2021,Cape Town
+P1550,Taylor,F,12-21-2022,Durban
+P1551,Taylor,,10-03-2022,
+P1552,Alex,F,02-04-2022,Durban
+P1553,Taylor,,08-19-2023,
+P1554,Alex,,2023/12/22,Cape Town
+P1555,Sam,M,2022/01/20,
+P1556,Jordan,,09-08-2023,Durban
+P1557,Taylor,,07-24-2021,
+P1558,Taylor,F,2022/02/13,Cape Town
+P1559,Alex,M,2021/07/18,
+P1560,Sam,F,2021-06-13,Cape Town
+P1561,,M,02-22-2023,Durban
+P1562,Alex,,08-03-2023,Cape Town
+P1563,Jordan,,01-20-2021,Pretoria
+P1564,Taylor,M,2021-01-26,Cape Town
+P1565,Jordan,M,02-04-2021,Pretoria
+P1566,Sam,F,30/03/2024,Pretoria
+P1567,,M,2023-08-12,
+P1568,Alex,,2022/12/31,
+P1569,,,04/09/2022,
+P1570,Jordan,,2023/12/19,Durban
+P1571,Alex,F,2022/08/14,
+P1572,Sam,,2023-03-27,Pretoria
+P1573,Sam,,2022-05-20,
+P1574,Alex,,2023-05-12,
+P1575,Taylor,M,04-08-2022,
+P1576,Taylor,M,2022/03/10,Cape Town
+P1577,Jordan,,15/10/2023,Pretoria
+P1578,Sam,,2024/01/30,
+P1579,Alex,F,27/03/2024,
+P1580,Jordan,M,2022-06-26,Durban
+P1581,,F,14/08/2022,Cape Town
+P1582,Jordan,M,2021-10-26,Durban
+P1583,,M,12-29-2023,Durban
+P1584,Jordan,,2021-03-15,Cape Town
+P1585,,,26/11/2023,Pretoria
+P1586,Jordan,F,13/03/2024,
+P1587,,,09-18-2022,
+P1588,Jordan,F,2023-04-28,Pretoria
+P1589,Sam,F,2022-04-24,Durban
+P1590,Sam,M,09-26-2022,Pretoria
+P1591,Alex,F,2022-01-16,
+P1592,Sam,F,17/06/2022,Cape Town
+P1593,Sam,M,02-12-2022,Durban
+P1594,Alex,,2021/06/29,Durban
+P1595,Alex,M,11-21-2023,Pretoria
+P1596,Taylor,F,06/02/2023,
+P1597,Taylor,M,2023-08-19,
+P1598,Alex,,2021/12/28,Durban
+P1599,Taylor,M,21/06/2022,
+P1600,,M,10-20-2023,Cape Town
+P1601,,M,04/09/2023,Cape Town
+P1602,Taylor,M,2021-01-01,Durban
+P1603,Sam,F,03-01-2022,
+P1604,Alex,,2022/03/14,Cape Town
+P1605,,M,2023-10-04,Cape Town
+P1606,Sam,,19/02/2021,
+P1607,Sam,M,2022-05-22,Cape Town
+P1608,,F,15/10/2022,Cape Town
+P1609,Jordan,M,2022-06-03,
+P1610,Alex,F,05-04-2023,Cape Town
+P1611,Alex,M,2022/03/28,Cape Town
+P1612,Jordan,M,16/01/2022,Pretoria
+P1613,,F,2023/01/05,Cape Town
+P1614,Jordan,F,03-29-2024,Pretoria
+P1615,Jordan,,07/08/2023,Pretoria
+P1616,Taylor,M,2022/06/14,
+P1617,Alex,F,27/06/2022,Durban
+P1618,,F,2021-12-23,
+P1619,Taylor,M,2022/05/31,Durban
+P1620,Alex,M,12-19-2022,Pretoria
+P1621,Jordan,M,2022-05-05,Durban
+P1622,Jordan,F,02/02/2024,
+P1623,Jordan,F,2024/01/03,Pretoria
+P1624,Alex,F,2022/05/25,Cape Town
+P1625,Taylor,M,19/09/2023,Pretoria
+P1626,Taylor,,2022-09-12,Pretoria
+P1627,Jordan,,2022-05-14,Durban
+P1628,Jordan,F,2021/05/10,Cape Town
+P1629,Sam,M,2022/10/20,Pretoria
+P1630,,F,23/02/2021,
+P1631,Sam,,02/11/2023,Durban
+P1632,Jordan,,01-23-2022,
+P1633,Alex,F,2023/05/04,Cape Town
+P1634,,F,2022-05-13,Pretoria
+P1635,Alex,,14/01/2024,Cape Town
+P1636,Alex,F,2024-03-03,Pretoria
+P1637,,,10/06/2021,
+P1638,Jordan,,2023-04-12,Durban
+P1639,Jordan,M,03-01-2022,Durban
+P1640,Sam,M,09/06/2021,Durban
+P1641,Taylor,F,23/04/2021,Cape Town
+P1642,Taylor,,04-15-2021,Pretoria
+P1643,Taylor,,2022/10/28,
+P1644,Taylor,,12/01/2024,Durban
+P1645,Jordan,M,04/11/2023,
+P1646,,M,30/08/2022,Durban
+P1647,,,2021/02/21,
+P1648,Alex,F,01/11/2023,Cape Town
+P1649,Jordan,F,04-08-2023,Durban
+P1650,Sam,F,2023-03-21,Pretoria
+P1651,Sam,M,2021/07/04,Pretoria
+P1652,Alex,,2021-09-25,Durban
+P1653,Sam,,15/04/2023,Durban
+P1654,Sam,,2022/09/27,Pretoria
+P1655,,,2023/07/20,Durban
+P1656,Alex,F,2024/01/15,Pretoria
+P1657,Taylor,M,01-10-2023,Pretoria
+P1658,Sam,,2021/12/14,Durban
+P1659,Alex,F,2022/12/17,
+P1660,Sam,,14/02/2022,
+P1661,Jordan,F,2021-04-03,Cape Town
+P1662,Jordan,M,22/09/2021,
+P1663,,M,02/03/2021,Durban
+P1664,Sam,M,2023/05/02,Cape Town
+P1665,Jordan,F,2022/03/13,
+P1666,Alex,M,01-16-2022,Pretoria
+P1667,Alex,F,07-10-2023,Durban
+P1668,Jordan,M,2024/04/07,
+P1669,Taylor,,28/10/2021,Durban
+P1670,,,2021-05-30,
+P1671,Alex,M,16/03/2024,Pretoria
+P1672,Taylor,F,2021/05/06,Cape Town
+P1673,Taylor,F,28/11/2022,
+P1674,Taylor,M,2023/03/12,Durban
+P1675,Sam,M,10-11-2022,Cape Town
+P1676,Taylor,,2022/06/22,Cape Town
+P1677,Alex,,28/04/2022,Pretoria
+P1678,Jordan,F,03-07-2023,Pretoria
+P1679,,M,2022-02-18,
+P1680,,M,2023-04-26,Durban
+P1681,Taylor,M,14/03/2024,Cape Town
+P1682,Taylor,,2024/02/27,Pretoria
+P1683,,,2023-09-05,Cape Town
+P1684,Sam,F,2024-02-21,Cape Town
+P1685,Jordan,,2021-06-08,Pretoria
+P1686,Jordan,,2022-06-07,
+P1687,,,2022/07/03,Cape Town
+P1688,Alex,M,2023/01/21,Durban
+P1689,Jordan,M,2021/02/25,Cape Town
+P1690,Alex,M,17/09/2021,Durban
+P1691,Sam,F,2021/02/07,Durban
+P1692,Sam,M,01-18-2023,Durban
+P1693,Alex,,27/01/2022,Durban
+P1694,Taylor,M,2023/08/11,Durban
+P1695,Jordan,F,2023-04-04,Durban
+P1696,Alex,M,2023/04/02,Durban
+P1697,Taylor,,2021-01-01,
+P1698,,F,2023/04/09,Durban
+P1699,Jordan,,2021-10-23,Cape Town
+P1700,Sam,M,21/08/2023,
+P1701,,M,2022-11-22,Cape Town
+P1702,,,07/01/2024,Cape Town
+P1703,Jordan,,2022-06-08,
+P1704,Jordan,F,02-09-2024,Cape Town
+P1705,Taylor,F,11/09/2022,
+P1706,Taylor,F,02/08/2021,Pretoria
+P1707,Jordan,M,2021/07/18,Cape Town
+P1708,Sam,,05-29-2023,Cape Town
+P1709,Sam,F,2023/08/15,
+P1710,,,2021-08-01,Cape Town
+P1711,,F,2022-09-24,Durban
+P1712,Sam,M,11/09/2023,
+P1713,,F,08/11/2022,Durban
+P1714,Jordan,,2022-02-28,
+P1715,Taylor,,2021/02/13,Durban
+P1716,Sam,M,02-09-2023,Durban
+P1717,Jordan,,10/06/2023,Durban
+P1718,Alex,M,06/12/2023,Cape Town
+P1719,Sam,M,2023-11-20,Durban
+P1720,Taylor,M,27/02/2023,Cape Town
+P1721,Sam,,2022/01/21,Pretoria
+P1722,Alex,F,12/12/2021,Cape Town
+P1723,Sam,F,2023/05/15,Durban
+P1724,Alex,M,2021-02-08,Pretoria
+P1725,Alex,,03-27-2024,Pretoria
+P1726,Taylor,,08-27-2022,Cape Town
+P1727,Jordan,M,2023/06/09,Durban
+P1728,,M,12-03-2023,Pretoria
+P1729,Sam,F,2022/01/10,Cape Town
+P1730,Sam,,2023-09-20,
+P1731,Sam,M,19/09/2021,Cape Town
+P1732,,,04-12-2021,
+P1733,Jordan,,06-24-2021,Pretoria
+P1734,Alex,M,2024/02/27,Cape Town
+P1735,Sam,F,10-30-2022,Cape Town
+P1736,Sam,,2024/02/11,Pretoria
+P1737,Jordan,M,12-06-2023,Pretoria
+P1738,Alex,M,13/12/2023,Cape Town
+P1739,Alex,F,2022/01/25,Durban
+P1740,Jordan,M,2022/03/14,
+P1741,Alex,F,2021/05/21,Pretoria
+P1742,,F,2023-03-31,Cape Town
+P1743,Sam,M,2022-07-21,Durban
+P1744,Jordan,,18/02/2023,Pretoria
+P1745,Sam,,08/01/2024,
+P1746,Taylor,M,2023-05-03,
+P1747,Alex,M,07-30-2022,Cape Town
+P1748,Sam,M,11-16-2021,Pretoria
+P1749,Alex,,30/07/2023,Durban
+P1750,Taylor,F,05/10/2023,Pretoria
+P1751,,,2023/02/22,Pretoria
+P1752,,M,2022-04-18,Durban
+P1753,Jordan,,17/10/2023,Durban
+P1754,Sam,,22/05/2023,Durban
+P1755,Jordan,,24/05/2023,Durban
+P1756,,M,2022-08-18,Cape Town
+P1757,Taylor,F,08/11/2022,Pretoria
+P1758,Taylor,,04-26-2021,Pretoria
+P1759,Taylor,F,2021-08-29,
+P1760,Taylor,F,2021-03-04,Pretoria
+P1761,Sam,M,2023/11/25,Cape Town
+P1762,Taylor,,01/06/2023,Durban
+P1763,Jordan,F,10-06-2021,
+P1764,Sam,M,24/05/2023,Pretoria
+P1765,Jordan,F,2021/09/19,Pretoria
+P1766,Sam,,2023-10-31,
+P1767,Jordan,F,12/01/2021,Durban
+P1768,Sam,,04-25-2023,Durban
+P1769,Taylor,M,2021/07/09,Pretoria
+P1770,,,2023-05-01,Cape Town
+P1771,Sam,M,2023-01-09,Durban
+P1772,Sam,M,2021/05/03,Pretoria
+P1773,Jordan,F,2021-03-22,
+P1774,Alex,F,02/01/2021,Pretoria
+P1775,Taylor,F,2022/09/18,Pretoria
+P1776,,F,2023/09/25,Durban
+P1777,Sam,F,2021-07-10,
+P1778,Jordan,,02-06-2021,Pretoria
+P1779,Taylor,M,2022-08-09,Durban
+P1780,,M,2024/01/01,Pretoria
+P1781,Jordan,,02-26-2022,
+P1782,,,2024/01/22,Cape Town
+P1783,Jordan,,31/10/2023,Cape Town
+P1784,Jordan,M,02-05-2023,Cape Town
+P1785,Taylor,M,2024/03/11,Durban
+P1786,Sam,,09-04-2022,
+P1787,Sam,M,07-18-2021,Cape Town
+P1788,Jordan,F,05/04/2024,
+P1789,Alex,F,01-15-2021,Pretoria
+P1790,,M,2022/01/20,Durban
+P1791,,,21/11/2022,Durban
+P1792,Taylor,M,2022-03-18,
+P1793,Jordan,,2021-11-29,Cape Town
+P1794,Jordan,M,2021-11-06,Cape Town
+P1795,Jordan,,01-05-2023,Pretoria
+P1796,Alex,,2021/02/08,Cape Town
+P1797,,M,05-09-2022,Pretoria
+P1798,Jordan,F,2022-01-10,
+P1799,Jordan,,03-19-2023,Pretoria
+P1800,,F,2022-03-20,Pretoria
+P1801,Alex,M,2023-05-10,
+P1802,,,29/11/2022,Pretoria
+P1803,Taylor,F,2021-10-09,Durban
+P1804,Alex,,2024/03/04,Pretoria
+P1805,Jordan,,19/03/2021,Durban
+P1806,,M,2023-05-15,
+P1807,Sam,M,25/12/2022,
+P1808,Sam,M,2023-01-25,
+P1809,Jordan,F,2023-06-20,Pretoria
+P1810,Sam,M,2022-07-20,Pretoria
+P1811,Jordan,F,2021/04/23,Pretoria
+P1812,Sam,,2021-06-05,
+P1813,,,2022-12-14,
+P1814,,M,18/02/2021,Pretoria
+P1815,,F,17/12/2021,Cape Town
+P1816,Alex,M,04-17-2021,Pretoria
+P1817,,F,2022-04-15,Cape Town
+P1818,Taylor,M,2024-04-14,Pretoria
+P1819,Jordan,M,01/08/2021,Durban
+P1820,Sam,F,24/01/2021,Pretoria
+P1821,Taylor,M,2021/05/29,Cape Town
+P1822,Sam,F,2023-11-20,
+P1823,Sam,M,08-31-2021,Durban
+P1824,,F,05/12/2022,
+P1825,,,27/07/2022,Durban
+P1826,,,02/04/2022,
+P1827,Jordan,F,03/08/2023,
+P1828,Taylor,F,12-15-2021,Durban
+P1829,Sam,,01-12-2023,Cape Town
+P1830,Alex,F,09/05/2023,Pretoria
+P1831,Alex,M,17/04/2021,Durban
+P1832,Taylor,,03-03-2024,
+P1833,Jordan,M,05-03-2021,
+P1834,Alex,M,2023-07-30,Cape Town
+P1835,Alex,,2023-04-12,Pretoria
+P1836,Taylor,,11-18-2022,
+P1837,Jordan,M,08-02-2022,Durban
+P1838,,,2021/08/29,Pretoria
+P1839,Taylor,,06-22-2022,Cape Town
+P1840,,M,2022/01/10,Pretoria
+P1841,Taylor,,2021-02-22,Cape Town
+P1842,Jordan,,2022-02-06,Cape Town
+P1843,Alex,M,06-13-2021,Pretoria
+P1844,Jordan,M,05/09/2022,Durban
+P1845,,M,04-17-2021,Pretoria
+P1846,Alex,M,2021/07/13,Cape Town
+P1847,Alex,F,06-28-2023,Cape Town
+P1848,Alex,,24/04/2023,Durban
+P1849,Sam,F,16/11/2023,Cape Town
+P1850,,M,29/12/2022,Cape Town
+P1851,Taylor,M,31/01/2023,Pretoria
+P1852,Sam,M,2021/01/25,Pretoria
+P1853,Alex,M,02-22-2023,Pretoria
+P1854,,,10-16-2021,Cape Town
+P1855,Sam,,01-24-2023,Pretoria
+P1856,,F,2022-10-23,Cape Town
+P1857,Jordan,,2021/06/05,Durban
+P1858,,,2023/01/06,Durban
+P1859,,F,2021/09/30,Cape Town
+P1860,Alex,,2021/09/03,
+P1861,Sam,F,03-08-2021,Pretoria
+P1862,,F,07/09/2021,Cape Town
+P1863,Taylor,,2021/06/28,
+P1864,Jordan,,2022-08-25,Durban
+P1865,Jordan,F,08-06-2021,
+P1866,,F,2023-12-27,Pretoria
+P1867,Jordan,,2022/06/08,Durban
+P1868,Sam,M,2023/07/25,Pretoria
+P1869,Jordan,F,08-01-2021,Cape Town
+P1870,Taylor,M,2023/08/28,
+P1871,,M,03-23-2022,Pretoria
+P1872,,M,13/04/2022,Cape Town
+P1873,Taylor,F,2021/12/05,
+P1874,Alex,M,2021/05/05,Cape Town
+P1875,Alex,M,2021-04-16,Pretoria
+P1876,Sam,M,07-24-2023,Pretoria
+P1877,Jordan,M,12-28-2021,Cape Town
+P1878,,,23/02/2022,Pretoria
+P1879,Taylor,,11-12-2022,
+P1880,Sam,M,05/04/2022,Pretoria
+P1881,Taylor,M,24/05/2021,Pretoria
+P1882,Alex,F,29/03/2022,Cape Town
+P1883,Taylor,F,06-14-2021,Cape Town
+P1884,Alex,,2021/07/27,Pretoria
+P1885,Jordan,,05-10-2021,Pretoria
+P1886,Alex,F,2021/07/11,
+P1887,Sam,,07-01-2023,Pretoria
+P1888,,,14/01/2024,Pretoria
+P1889,Taylor,,16/05/2021,Pretoria
+P1890,Sam,F,2022/06/09,Cape Town
+P1891,Taylor,,12-28-2021,
+P1892,Alex,,01/10/2022,
+P1893,Taylor,M,03-06-2021,
+P1894,Alex,F,2022/02/19,Durban
+P1895,Taylor,,2022/06/11,Cape Town
+P1896,,,2023/10/07,Cape Town
+P1897,Taylor,,01/07/2023,Pretoria
+P1898,Alex,,2024-02-27,Cape Town
+P1899,Taylor,F,09-15-2021,Pretoria
+P1900,Sam,,13/10/2023,
+P1901,Taylor,M,2021/09/09,
+P1902,Sam,F,2023-12-05,
+P1903,Sam,M,2022/01/26,Durban
+P1904,Alex,F,2023/03/29,Cape Town
+P1905,Sam,,2023-12-20,
+P1906,Taylor,M,03/12/2021,Durban
+P1907,,,28/09/2023,Cape Town
+P1908,Taylor,,2023/04/14,Durban
+P1909,Taylor,F,2021-03-15,
+P1910,Alex,F,30/03/2023,Durban
+P1911,Alex,,2022/12/24,
+P1912,Jordan,F,15/09/2023,Cape Town
+P1913,Taylor,F,08-20-2023,
+P1914,,F,11-28-2023,Cape Town
+P1915,Taylor,F,2023/01/08,
+P1916,Alex,,07-11-2022,Durban
+P1917,Jordan,F,2022-03-02,Pretoria
+P1918,,,2022/07/22,
+P1919,Alex,,2023/08/31,Pretoria
+P1920,Jordan,M,2023/09/28,Durban
+P1921,Alex,M,04-22-2022,Pretoria
+P1922,Alex,M,09/10/2023,
+P1923,Jordan,F,2024/02/04,Durban
+P1924,Taylor,F,2022-03-06,Durban
+P1925,Sam,,04-14-2022,Pretoria
+P1926,,,2021-05-08,Pretoria
+P1927,Taylor,M,2021/10/24,Durban
+P1928,,M,2022-01-27,Durban
+P1929,Sam,M,31/07/2021,Pretoria
+P1930,,F,12-17-2021,Pretoria
+P1931,Alex,,2022/10/17,Pretoria
+P1932,Alex,F,2021-12-01,
+P1933,Taylor,,2022-04-23,Durban
+P1934,Taylor,M,04/02/2023,Cape Town
+P1935,Sam,,2023/04/09,Pretoria
+P1936,Taylor,M,2024-04-07,Cape Town
+P1937,Taylor,,24/12/2022,Durban
+P1938,Alex,M,08/06/2023,Pretoria
+P1939,Taylor,,03-24-2021,Pretoria
+P1940,,F,2022/03/29,
+P1941,Jordan,,2023-08-09,Durban
+P1942,Taylor,F,03/01/2024,Pretoria
+P1943,Taylor,,2023/10/01,
+P1944,Jordan,M,11-24-2023,
+P1945,Sam,M,01/10/2022,Pretoria
+P1946,Jordan,,09-21-2021,Pretoria
+P1947,,,2023/06/24,Cape Town
+P1948,Taylor,F,2023/06/06,Cape Town
+P1949,Sam,F,25/02/2023,Pretoria
+P1950,,M,11-29-2022,
+P1951,,F,17/05/2022,Pretoria
+P1952,Sam,M,2023-09-11,Pretoria
+P1953,,M,2022-09-18,Durban
+P1954,,M,2021/01/24,Pretoria
+P1955,Taylor,F,01-04-2023,
+P1956,Sam,F,2022/04/26,Cape Town
+P1957,Taylor,,07-04-2023,
+P1958,,F,15/05/2021,
+P1959,Alex,M,17/09/2022,
+P1960,Sam,M,11-20-2021,Durban
+P1961,Alex,,2023-11-15,Cape Town
+P1962,,M,10-10-2022,Pretoria
+P1963,Jordan,M,2023-09-20,Durban
+P1964,Sam,M,21/08/2022,Cape Town
+P1965,Taylor,M,02-25-2023,Pretoria
+P1966,Taylor,,2022-11-24,Pretoria
+P1967,Jordan,,2021-04-14,Pretoria
+P1968,Taylor,F,2022-11-23,Durban
+P1969,,,2022-02-09,
+P1970,Alex,F,04-09-2022,Cape Town
+P1971,,F,2024-02-13,Cape Town
+P1972,Taylor,,2024/03/07,Cape Town
+P1973,Jordan,F,2023-04-14,Durban
+P1974,Taylor,M,2022/02/11,
+P1975,Taylor,,06/02/2022,Pretoria
+P1976,Alex,F,08-10-2021,Pretoria
+P1977,Alex,F,2023/09/09,Pretoria
+P1978,Sam,M,06/10/2023,
+P1979,Jordan,,2022-03-29,
+P1980,Taylor,,15/11/2023,Pretoria
+P1981,Alex,,08-18-2023,
+P1982,Taylor,F,2023-05-18,Durban
+P1983,Sam,,22/10/2023,Cape Town
+P1984,Alex,,2023-08-29,Pretoria
+P1985,Alex,,10-03-2021,
+P1986,Taylor,M,11-24-2021,Durban
+P1987,,,2021/09/16,Pretoria
+P1988,Sam,,2024/02/24,Durban
+P1989,,,2021-09-27,
+P1990,Taylor,M,08-18-2022,Cape Town
+P1991,Sam,M,2022/05/21,Durban
+P1992,Taylor,,2024/03/26,
+P1993,Taylor,M,2022/05/31,Cape Town
+P1994,Alex,F,04-02-2021,Durban
+P1995,Alex,F,25/04/2021,Pretoria
+P1996,,M,03/02/2021,
+P1997,Alex,F,2023/04/14,Cape Town
+P1998,,,2023/11/16,Pretoria
+P1999,Jordan,,28/05/2022,Pretoria
